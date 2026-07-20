@@ -1,0 +1,21 @@
+{
+  "name": "number_guessing_game",
+  "version": "1.0.0",
+  "description": "https://roadmap.sh/projects/number-guessing-game",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node game.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LweZ01/Number_Guessing_Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/LweZ01/Number_Guessing_Game/issues"
+  },
+  "homepage": "https://github.com/LweZ01/Number_Guessing_Game#readme"
+}
